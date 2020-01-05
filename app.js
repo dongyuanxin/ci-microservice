@@ -15,8 +15,8 @@ app.use(async (ctx, next) => {
         ctx.response.status = 404
         ctx.response.body = 'Page not found, please visit: "https://xxoo521.com/"'
     } else {
-        main()
         ctx.response.body = 'success'
+        main()
     }
     
     return
