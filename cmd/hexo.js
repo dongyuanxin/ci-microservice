@@ -31,4 +31,4 @@ module.exports = {
     hexoBuild
 }
 
-hexoBuild('/Users/yuanxindong/Desktop/articles/ci-xxoo521/tmp/xxoo521')
+// hexoBuild('/Users/yuanxindong/Desktop/articles/ci-xxoo521/tmp/xxoo521')
